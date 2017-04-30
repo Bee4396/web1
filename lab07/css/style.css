@@ -1,0 +1,17 @@
+html{
+	font-size: 12px; 
+	color: grey;
+	font-family: Arial;
+	line-height: 2em;
+}
+a{color:#727272; font-weight: bold;}
+a:link{text-decoration: none;}
+a:hover{text-decoration: underline;}
+
+.tou{color: #b9f605;font-weight: bold;font-size: 14px;}
+
+.tou1{color: white;font-size: 14px;font-weight: bold;}
+.tou1:hover{color:#b9f605; text-decoration: none; font-size: 14px;font-weight: bold;}
+
+#tou2{color: #fdb306;font-size: 14px; font-weight: bold;}
+#tou2:hover{text-decoration: none;color:#b9f605; }
