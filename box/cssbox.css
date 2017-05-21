@@ -1,0 +1,17 @@
+#body{ margin: 0px ;  background-color: white;}
+#left{ float: left; width: 640px; height: 150px;  border: solid 20px white;padding: 15px;background-color:#F5F5DC;  }
+.a1{  width: 300px ; height: 60px;margin: 10px;  background-color: purple ;float: left}
+#right{float: left;  width: 300px;height: 177px;border: solid 20px white;background-color: #F5F5DC;padding: 1px}
+.a2{width: 280px ; height: 46px;margin: 10px; background-color: purple ;}
+#box{width: 1000px;height: 1000px;border: solid 3px black; margin-top: 150px ;margin-left: 20px; padding-left:  20px;
+padding-bottom:  20px;	  padding-right:  20px    ;     background-color: pink}
+#b1{ float: left; width: 200px;height: 100px; border-left: solid 20px #6495ED; border-right: solid 4px red;border-top: 
+  solid 4px red;border-bottom:  solid 4px red;background-color: #7FFF00}
+  #b2{ float: left;width: 750px;height: 100px;border-right: solid 20px #6495ED; border-left: solid 4px red;border-top: 
+  solid 4px red;border-bottom:  solid 4px red;background-color:	#F0E68C }
+  #b3{float: left;width: 958px;height: 250px; border-left: solid 20px #6495ED; border-right: solid 20px #6495ED;;border-top: 
+  solid 4px red;border-bottom:  solid 4px red;background-color: 	#008000}
+  #b4{ float: left;width: 980px;height: 480px;border: solid 10px blue; }
+  #b5{float: left;width: 580px;height: 470px;border: solid 5px red;background-color: 	#ADFF2F}
+  #b6{float: left;width: 380px;height: 470px;border: solid 5px red;background-color: 	yellow}
+  #b7{ float: left;width: 990px;height: 130px;border: solid 5px red;background-color: 	#DAA520 }
