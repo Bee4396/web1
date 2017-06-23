@@ -1,0 +1,45 @@
+*{margin:0px;background: url(img/ChMkJ1bKzi2IW7o_AAmdc_YxQ4YAALJIQLAS8oACZ2L773.jpg); }
+
+#body{ width: 100%;height: 1000px ;border: 0px solid yellow }
+#head{width: 100%;height: 700px;border: 0px solid red; position: relative;}
+#daohang{width: 100%;height: 50px;padding-left: 100px;border: 0px solid yellow;padding-top: 20px;   opacity:0.4}
+#daohang table #shouye{color: white ;font-size: 2em;font-family: YouYuan}
+#daohang table a {color: white ;font-size: 1em;font-family: Microsoft JhengHei; text-decoration: none; line-height: 50px;height: 50px;}
+#daohang a:hover {color: gray;text-decoration: underline;}
+ #daohang1{width: 100%;padding-left: 30%;}
+ #daohang1 a{color: white ;font-size: 1em;font-family: Microsoft JhengHei; text-decoration: none;}
+ #fuli{float: left;padding-left:  0px;}
+  #aomen{float: left;padding-left : 40px;}
+   #tongcheng{float: left;padding-left : 40px;}
+     #tzhongzi{float: left;padding-left : 40px;}
+      #guanyu{float: left;padding-left : 40px;}
+ #biaoti{padding: 180px;padding-left: 400px;opacity:0.1}
+ #wenzi{  }
+ #wenzi p{color: white;font-size: 3em;font-family: PMingLiU;background:#000;}
+ #search{ width: 600px;height: 80px;margin-top: 0px; margin-left: 450px;margin-bottom: 00px; border: 0px solid yellow;opacity: 0.8}
+ #search p{color: white ;font-size: 1em;font-family: Microsoft JhengHei;}
+ #search #text{width: 500px;height:50px;color: white ; font-weight: bolder; font-size: 1.5em;opacity: 0.2}
+ #search #submit{height: 50px;width: 80px;color: white ; font-weight: bolder; font-size: 1.5em;font-family: Microsoft JhengHei;opacity: 0.8}
+#xiangguanlianjie{opacity: 0.7; background: url(img/gaitubao_com_14980172408540.PNG);position: absolute;left: : 400px;list-style-type: none; top: 200px;width: 223px;height :306px;color: white  ;border: 1px solid white; font-family: youyuan; font-size: 15px;}
+#xiangguanlianjie a{ font-family: youyuan; font-size: 16px;color: #2F4F4F }
+#xianguanlianjie a:hover{color: green}
+#xiangguanlianjie ul{list-style-type: upper-roman;line-height: 24px;height: 24px;}
+#xiangguanlianjie  ul #zz{ font-weight: bolder; font-size: 1em;font-family: Microsoft JhengHei}
+#neirong{width: 100%;height: 350px; border: 0px solid red ;padding-top: 30px;padding-left: 0px;}
+
+#shenming{float: left; margin-left: 300px; opacity: 0.5; width:772px;height: 209px;background: url(img/gaitubao_com_14980216163924.jpg) ; color: red; font-weight: 800; font-size: 1.3em;font-family: FangSong}
+#lianxia{float: left;margin-left: 80px;  top:100px; width:357px;height: 201px; background:url(img/gaitubao_com_14980223329438.PNG);color: white ; font-weight: bolder; font-size: 1.2em;font-family: Microsoft JhengHei;opacity: 0.3
+  }
+#footer{background:url(img/0008020290884176_b.jpg); width: 100%;height: 105px;padding-left:30%;  opacity: 0.95; margin-top: 245px;}
+#footer #foot{color: 	#505050 ;line-height: 20px;height: 20px}
+#footer #foot1{color: 	#505050}
+#lineguide{ width: 100%;height: 40px;position: absolute;top: 100px;left: 100px;border: 0px solid red;
+ padding-left: 200px;color: white ;font-size: 1em;font-family: Microsoft JhengHei;height: 40px;line-height: 40px;}
+#search1{ position: absolute;left:900px;top: 0px; opacity: 0.7}
+#submit1{color: white}
+#list{ position: absolute;left: 270px;top: 180px; height: 50px; line-height: 50px; color: white ; font-weight: bolder; font-size: 1em;font-family: Microsoft JhengHei;opacity: 0.6}
+#list h5{color: white ; font-weight: bolder; font-size: 1em;font-family: Microsoft JhengHei;}
+#list ul{list-style-type: none;color: white;text-decoration: none;font-size: 1.2em}
+#list ul a{color: red;list-style-type: none;}
+
+#list table a{color: white}
